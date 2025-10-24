@@ -1,0 +1,6 @@
+{
+  "name": "goldex-vercel-api",
+  "version": "1.0.0",
+  "description": "Goldex bullion spot price proxy for Shopify ticker",
+  "type": "module"
+}
